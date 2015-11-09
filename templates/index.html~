@@ -1,0 +1,17 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>fomo</title>
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static',filename='styles.css') }}">
+</head>
+<body>
+  <div class="container">
+    <h1>fomo</h1>
+    text something to 240-743-3236 or <a href="/use">talk now!</a>
+    <img src="/images/logo.png" class="logo" alt="logo">
+    <br>Made with <3 at MHacks
+  </div>
+</body>
+</html>
